@@ -1,0 +1,29 @@
+.footer {
+  margin: 50px 50px 10px 50px;
+
+  
+
+  .bottom {
+    position: absolute;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 50px;
+    .left {
+      display: flex;
+      align-items: center;
+
+      .logo{
+        color: #2879fe;
+        font-weight: bold;
+        font-size: 24px;
+      }
+
+      .copyright{
+        margin-left: 20px;
+        font-size: 12px;
+        color: gray;
+      }
+    }
+   
+  }
+}
