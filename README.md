@@ -13,3 +13,9 @@
 ### cd backend
 ### pip install -r requirements.txt
 ### python manage.py runserver
+# To run a React app to follow these steps:
+### open the Frontend folder in vs code
+### open terminal
+### npm install
+### npm start
+### Open localhost:3000 in a browser
