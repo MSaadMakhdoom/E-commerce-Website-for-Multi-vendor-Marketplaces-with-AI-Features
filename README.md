@@ -8,7 +8,8 @@
 
 
 # To run a Django program to follow these steps:
-#### open VS code
-#### open the backend folder in vs code
-#### cd backend
-#### pip install -r requirements.txt
+##### open VS code
+##### open the backend folder in vs code
+##### cd backend
+##### pip install -r requirements.txt
+##### python manage.py runserver
