@@ -15,6 +15,20 @@
 #### View accounts
 #### Update account properties
 
+## Seller
+#### Add New Product in Store
+#### Update Product in online shop store
+#### Delete Product in online shop store
+#### View all Products in online shop store
+#### Dashboard Complete Sale Information
+
+## Buyer
+#### Add product in busket
+#### Update basket
+#### Delete basket
+#### search product in multiple filter
+#### Search product through image
+#### Estimate cost calculate gray structure material
 
 # To run a Django program to follow these steps:
 ### open VS code
