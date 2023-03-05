@@ -30,13 +30,13 @@
 #### Search product through image
 #### Estimate cost calculate gray structure material
 
-# To run a Django program to follow these steps:
+# Step need to run a Django program to follow these steps:
 ### open VS code
 ### open the backend folder in vs code
 ### cd backend
 ### pip install -r requirements.txt
 ### python manage.py runserver
-# To run a React app to follow these steps:
+# Step needs to run a React app to follow these steps:
 ### open the Frontend folder in vs code
 ### open terminal
 ### npm install
